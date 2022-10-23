@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vincent-Zhul
+- 👋 Hi, I’m @Vincent Zhu
 - 👀 I’m interested in Data Science, Data Modeling as well as AI🤖️ technologies.
 - 🌱 I’m currently learning about the fundamental knowledge of Computer Science.
 - 💞️ I’m looking to collaborate on python🐍 programming and some relevant fields.
